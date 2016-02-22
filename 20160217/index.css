@@ -1,0 +1,48 @@
+.textcenter {
+	text-align: center;
+}
+#verhheadera {
+	background-color: #63AFD0;
+
+}
+.spisok {
+	list-style-type: none;
+}
+.soc_img {
+	width: 10%;
+	border-radius: 6px;
+}
+#pobratim {
+	margin-left: 20%;
+}
+.header {
+	background-color: #96D3F8;
+	border-radius: 0px 0px 15px 15px;
+}
+.footer {
+	background-color: #96D3F8;
+	border-radius: 15px 15px 0px 0px;
+}
+.content {
+  min-height: calc(100vh - 175px);
+}
+#about {
+	border-color: #2675A5;
+	border: solid 1px;
+	border-radius: 15px;
+	margin-top: 10%;
+}
+
+#life {
+	border-color: #2675A5;
+	border: solid 1px;
+	border-radius: 15px;
+	margin-top: 10%;
+}
+
+#blago {
+	border-color: #2675A5;
+	border: solid 1px;
+	border-radius: 15px;
+	margin-top: 10%;
+}
