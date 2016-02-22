@@ -1,0 +1,2 @@
+# veteran
+Soyuz veteranov
